@@ -1,5 +1,5 @@
 
-namespace CadastroClientesMvc;
+namespace CadastroClientesMvc.Models;
 public class Cliente
 {
   public int ID_Cliente { get; set; }
